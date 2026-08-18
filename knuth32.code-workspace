@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../AppData/Local/Temp/knuth32"
+		}
+	],
+	"settings": {
+		"files.watcherExclude": {
+			"**/target/**": true
+		}
+	}
+}
